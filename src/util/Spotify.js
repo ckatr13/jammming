@@ -1,7 +1,7 @@
 
 
 const clientId = '7990bf1a7d144229859256b3d246e8ad';
-const redirectUri = "http://teeny-tiny-jelly.surge.sh"
+const redirectUri = "https://ckatr13.github.io/jammming";
 
 let accessToken;
 
